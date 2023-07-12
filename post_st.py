@@ -14,12 +14,12 @@ headers = {
 
 data = {
   "id": 0,
-  "username": "bibaboba",
-  "firstName": "Biba",
-  "lastName": "Boba",
-  "email": "biba@bobamail.ru",
-  "password": "Bob@task12",
-  "phone": "89009009090",
+  "username": "svsaz",
+  "firstName": "sonya",
+  "lastName": "Milk",
+  "email": "sv123@mail.ru",
+  "password": "somi5555",
+  "phone": "89121234567",
   "userStatus": 0
 }
 
