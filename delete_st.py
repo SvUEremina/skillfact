@@ -21,7 +21,7 @@ data = {
   "userStatus": 0
 }
 
-res1 = requests.delete(f'https://petstore.swagger.io/v2/user/bibaboba', headers=headers, json=data)
+res1 = requests.delete(f'https://petstore.swagger.io/v2/user/svsaz', headers=headers, json=data)
 print(res1.status_code)
 print(res1.text)
 print(res1.json())
