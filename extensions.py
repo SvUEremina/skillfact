@@ -2,7 +2,6 @@ import requests
 import json
 from config import keys
 
-# добавление классов для оптимизации и уменьшения кода
 class ConvertionException(Exception):
     pass
 
@@ -15,7 +14,7 @@ class CryptoConverter:
             raise ConvertionException(f'Нельзя конвертировать одинаковые валюты {base}!')
         ############################################################################
 
-        # если ввели не корректную валюту
+        # если ввели некорректную валюту
         try:
             quote_ticker = keys[quote]
         except KeyError:
@@ -27,7 +26,7 @@ class CryptoConverter:
             raise ConvertionException(f'Не удалось обработать валюту {base}!')
         ############################################################################
 
-        #   если ввели не корректное количество валюты
+        #   если ввели некорректное количество валюты
         try:
             amount = float(amount)
         except ValueError:
