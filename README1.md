@@ -1,11 +1,11 @@
 Итоговый проект по автоматизации тестирования на курсе QAP в Skillfactory
-Были протестированы требования заказчиков, которые не совсем корректны с сайтом (нашла 96 расхождений). Тестирование требований оформлены в виде комментариев (в комментариях указано как это выглядит на сайте): https://docs.google.com/document/d/1oh0E5N5eMAVUQk7BJKyohjgXUqoFvOAo/edit?usp=sharing&ouid=111250185569733416821&rtpof=true&sd=true
-
+Были протестированы требования заказчиков. Расхождения с сайтом отражены в файле в режиме предлагаемых правок: 
+https://docs.google.com/document/d/1NoGxB5PV1t8TaW2azRNe6z3gruBS704g/edit?usp=sharing&ouid=117817052204488998902&rtpof=true&sd=true
 
 Разработаны тест-кейсы. • При разработке тест-кейсов были применены следующие техники тест-дизайна: эквивалентное разбиение, анализ граничных значений, таблица принятия решений.
 
 
-Отчет создан с помощью инструмента Google-таблицы: https://docs.google.com/spreadsheets/d/1pwe6vpBN_D2k-BC2SJDaNFJypjcTexI-shXhIOLdAuY/edit?usp=sharing.
+Отчет создан с помощью инструмента Google-таблицы: https://docs.google.com/spreadsheets/d/1f6TZ_gK9MTEsOXZBFFao2Licnx13h0IAOdwj3YKeTxg/edit?usp=sharing.
 
 
 Были написаны автотесты. • Для тестирования сайта был использован инструмент Selenium. • Для определения локаторов использовались следующие инструменты: DevTools, Element Locator. • При написании автотестов дополнительно установлены библиотеки: pytest, selenium, pytest-selenium. 
