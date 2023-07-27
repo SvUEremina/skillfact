@@ -4,8 +4,8 @@ https://docs.google.com/document/d/1NoGxB5PV1t8TaW2azRNe6z3gruBS704g/edit?usp=sh
 
 Разработаны тест-кейсы. • При разработке тест-кейсов были применены следующие техники тест-дизайна: эквивалентное разбиение, анализ граничных значений, таблица принятия решений.
 
-
-Отчет создан с помощью инструмента Google-таблицы: https://docs.google.com/spreadsheets/d/1f6TZ_gK9MTEsOXZBFFao2Licnx13h0IAOdwj3YKeTxg/edit?usp=sharing.
+Отчет создан с помощью инструмента Google-таблицы: 
+https://docs.google.com/spreadsheets/d/1f6TZ_gK9MTEsOXZBFFao2Licnx13h0IAOdwj3YKeTxg/edit?usp=sharing
 
 
 Были написаны автотесты. • Для тестирования сайта был использован инструмент Selenium. • Для определения локаторов использовались следующие инструменты: DevTools, Element Locator. • При написании автотестов дополнительно установлены библиотеки: pytest, selenium, pytest-selenium. 
